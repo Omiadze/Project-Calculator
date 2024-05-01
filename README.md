@@ -2,7 +2,7 @@
 ### Links
 
 
-- Live Site URL: [Add live site URL here](https://omiadze.github.io/Project-Calculator/)
+- Live Site URL: [live site URL here](https://omiadze.github.io/Project-Calculator/)
 
 ## My process
 
@@ -14,4 +14,4 @@
 
 ## Author
 
-- Hello, my name is Teo and I'm new to coding.
+- Hello, my name is Teo and I'm a Front-End developer.
